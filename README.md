@@ -12,7 +12,7 @@ Classic methods for time series forecasting problems are mostly based on the sta
 
 If required, due to file size I am unable to upload the electricity dataset. Please download from [link](https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014) and store the file name as "LD2011_2014.txt" in directory ..\data\elect
 
-##Contact
+## Contact
 Please feel free to contact me. Any feedbacks are welcome too !!
 ## Acknowledgement
 We would like to acknowledge the following papers, github repositories and datasets:
