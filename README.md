@@ -10,6 +10,7 @@ Classic methods for time series forecasting problems are mostly based on the sta
 2. An estimator layer is introduced to both RNN and RBN to estimate the final probabilistic forecasts. 
 3. A loss function that consists of a reconstruction and correlation regularization term is proposed to ensure RNN and RBN learn different characteristics of the data. The experimental results have shown that utilizing the RBN model produced better probabilistic forecast as compared to other models across different datasets.
 
+
 # Acknowledgement
 We would like to acknowledge the following papers, github repositories and datasets:
 
