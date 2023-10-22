@@ -14,6 +14,8 @@ Classic methods for time series forecasting problems are mostly based on the sta
 # Acknowledgement
 We would like to acknowledge the following papers, github repositories and datasets:
 
+https://github.com/apsarath/NRU
+
 https://github.com/thuml/Autoformer
 
 https://github.com/zhouhaoyi/Informer2020
