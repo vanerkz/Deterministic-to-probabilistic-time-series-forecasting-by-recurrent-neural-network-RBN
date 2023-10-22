@@ -26,4 +26,6 @@ https://github.com/zhouhaoyi/ETDataset
 
 https://github.com/laiguokun/multivariate-time-series-data
 
-These have provided us valuable resources to conduct our research
+https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
+
+These have provided us valuable resources to conduct our research. Deeply Appreciated
