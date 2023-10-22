@@ -4,7 +4,7 @@ V.K.Z. Koh, X.Li, Z.Lin, Y.Li, E.Shafiee, and B.Wen, “Deterministic to probabi
 
 Residual Boosting Network (RBN) is used to convert deterministic time series forecasts into proabilistic by incropating a novel output layer into existing models. [Paper](https://ieeexplore.ieee.org/abstract/document/10241877)
 
-# acknowledgement
+# Acknowledgement
 We would like to acknowledge the following papers, github repositories and datasets:
 
 https://github.com/thuml/Autoformer
